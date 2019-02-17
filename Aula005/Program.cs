@@ -30,6 +30,10 @@ namespace Aula005
             Console.Write("Base Salary");
             double baseSalary = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
+            Department dept = new Department(DeptName);
+            
+
+
 
 
             
