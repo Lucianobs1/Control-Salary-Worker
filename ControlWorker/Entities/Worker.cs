@@ -1,11 +1,11 @@
-﻿using Aula005.Entities.Enums;
+﻿using ControlWorker.Entities.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aula005.Entities
+namespace ControlWorker.Entities
 {
     class Worker
     {

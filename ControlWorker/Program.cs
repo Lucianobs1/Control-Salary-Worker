@@ -1,5 +1,5 @@
-﻿using Aula005.Entities;
-using Aula005.Entities.Enums;
+﻿using ControlWorker.Entities;
+using ControlWorker.Entities.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
-namespace Aula005
+namespace ControlWorker
 {
     class Program
     {

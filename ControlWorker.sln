@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula005", "Aula005\Aula005.csproj", "{759A118E-7FCC-479A-9A77-92265726D78B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlWorker", "Aula005\ControlWorker.csproj", "{759A118E-7FCC-479A-9A77-92265726D78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

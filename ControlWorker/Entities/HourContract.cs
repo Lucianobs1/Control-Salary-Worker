@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aula005.Entities
+namespace ControlWorker.Entities
 {
     class HourContract
     {
